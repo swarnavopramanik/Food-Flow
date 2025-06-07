@@ -1,4 +1,4 @@
-<h1 align="center"> Food Delivery Website 🍕 </h1>
+<h1 align="center"> Food Flow🍕 </h1>
 
 ![image](https://github.com/swarnavopramanik/zomato-clone/assets/105142693/f3094b72-3865-4e19-9ac2-b2cd433ee03d)
 
