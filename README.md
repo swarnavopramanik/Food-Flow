@@ -83,7 +83,15 @@ Using [npm](https://www.npmjs.com/) :
 ❯ npm install
 
 ```
+## Technology Stack
 
+- [Next.js](https://nextjs.org): A React framework for building server-rendered applications.
+- [TypeScript](https://www.typescriptlang.org): A typed superset of JavaScript that enhances code quality and developer productivity.
+- [Redux Toolkit](https://redux-toolkit.js.org/): A A powerful state management tool.
+- [ESLint](https://eslint.org): A pluggable JavaScript linter that helps identify and fix common code issues.
+- [Tailwind CSS](https://tailwindcss.com): A utility-first CSS framework for building custom user interfaces.
+- [Shadcn UI](https://ui.shadcn.com/): A collection of re-usable components built using Radix UI and Tailwind CSS.
+- [GCP](https://cloud.google.com/?hl=en):  Use your user credentials to sign in to the Google Cloud CLI, and then use the tool to access Google Cloud services.
 
 ## Usage
 
