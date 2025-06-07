@@ -1,6 +1,7 @@
 <h1 align="center"> Food Flow🍕 </h1>
 
-![Food Flow Logo](https://github.com/user-attachments/assets/69363faa-1429-417c-bd1d-0e94676e5d2a)
+![Food Flow Logo](https://github.com/user-attachments/assets/749095e3-75eb-4643-af6b-41cbf8e48afe)
+
 
 
 
