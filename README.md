@@ -1,6 +1,7 @@
 <h1 align="center"> Food Flow🍕 </h1>
 
-![image](https://github.com/swarnavopramanik/zomato-clone/assets/105142693/f3094b72-3865-4e19-9ac2-b2cd433ee03d)
+![image](![Food Flow Logo](https://github.com/user-attachments/assets/1bac6dd2-fdac-40b3-b57c-d4d4e798b090)
+)
 
 <h2 align="center">Food Delivery Website Services</h2>
     
