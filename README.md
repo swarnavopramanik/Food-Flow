@@ -16,25 +16,27 @@ deliver the most excellent online results for the restaurant business.
 
 [Click here](https://medium.com/@swarnavo.pramanik1701/design-lld-a-system-for-online-food-ordering-and-delivery-like-zomato-93b70cc79a3f)
 
-Overview
+## Overview
+
+
 Food-Flow is a powerful food delivery platform designed to elevate restaurant operations and customer engagement.
 
-Why Food-Flow?
+## Why Food-Flow?
 
 This project empowers restaurant owners with essential tools to streamline operations and enhance customer satisfaction. The core features include:
 
-🍔 Comprehensive Food Delivery Platform: Elevates restaurant visibility and operational efficiency.
-🔒 Secure Payment Processing: Ensures safe transactions for users with integrated payment options.
-📦 Real-time Order Tracking: Enhances user experience by allowing customers to track their orders seamlessly.
-🔑 User Authentication: Implements JWT-based authentication for secure user access and management.
-📋 Dynamic Menu Management: Allows restaurants to easily manage and update their menus in real-time.
-📱 Responsive Design: Ensures a seamless experience across devices, enhancing accessibility for users.
+- 🍔 Comprehensive Food Delivery Platform: Elevates restaurant visibility and operational efficiency.
+- 🔒 Secure Payment Processing: Ensures safe transactions for users with integrated payment options.
+- 📦 Real-time Order Tracking: Enhances user experience by allowing customers to track their orders seamlessly.
+- 🔑 User Authentication: Implements JWT-based authentication for secure user access and management.
+- 📋 Dynamic Menu Management: Allows restaurants to easily manage and update their menus in real-time.
+- 📱 Responsive Design: Ensures a seamless experience across devices, enhancing accessibility for users.
 
 
-<h2 align="center">Food Delivery App Development Key Features </h2>
+<h2 align="center">Key Features </h2>
 
 
-PM IT Solution is one of the most well-known website development companies, consistently provides its clients with cost-effective yet successful mobile app services. We can assist restaurant owners with the design and development of mobile applications that will help them expand their companies more quickly and achieve the best potential online outcomes.
+- PM IT Solution is one of the most well-known website development companies, consistently provides its clients with cost-effective yet successful mobile app services. We can assist restaurant owners with the design and development of mobile applications that will help them expand their companies more quickly and achieve the best potential online outcomes.
 
  
  
