@@ -3,18 +3,18 @@
 ![Food Flow Logo](https://github.com/user-attachments/assets/1bac6dd2-fdac-40b3-b57c-d4d4e798b090)
 
 
-<h2 align="center">Food Delivery Website Services</h2>
+<h2 align="center">Food Flow Services</h2>
     
-Our food delivery website to help in designing and developing for restaurant business owners to speed up their business enlargement and 
+Our Food Flow Site to help in designing and developing for restaurant business owners to speed up their business enlargement and 
 deliver the most excellent online results for the restaurant business.
 
 ## Project Demo 
 
 - [Video](https://vimeo.com/929956104?share=copy)
 
-<h1 align="center"> Design (LLD) a system for online food ordering and delivery app </h2>
+<h1 align="center"> Design (LLD) a system for online Food ordering and delivery app </h2>
 
-[Click here](https://medium.com/@swarnavo.pramanik1701/design-lld-a-system-for-online-food-ordering-and-delivery-like-zomato-93b70cc79a3f)
+[Docs](https://medium.com/@swarnavo.pramanik1701/design-lld-a-system-for-online-food-ordering-and-delivery-like-zomato-93b70cc79a3f)
 
 ## Table of Contents
 
