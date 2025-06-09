@@ -15,9 +15,9 @@ deliver the most excellent online results for the restaurant business.
 
 - [Initiation Phase](https://vimeo.com/1091730677?share=copy)
 
-<h1 align="center"> Design (LLD) a system for online Food ordering and delivery app </h2>
+<h1 align="center"> LLD (Low-Level Design) system for the restaurant business </h2>
 
-- [Docs](https://medium.com/@swarnavo.pramanik1701/design-lld-a-system-for-online-food-ordering-and-delivery-like-zomato-93b70cc79a3f)
+- [Blog ](https://medium.com/@swarnavo.pramanik1701/design-lld-a-system-for-online-food-ordering-and-delivery-like-zomato-93b70cc79a3f)
 
 ## Table of Contents
 
