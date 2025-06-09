@@ -46,10 +46,10 @@ This project empowers restaurant owners with essential tools to streamline opera
 - 📋 Dynamic Menu Management: Allows restaurants to easily manage and update their menus in real-time.
 - 📱 Responsive Design: Ensures a seamless experience across devices, enhancing accessibility for users.
 
-## Key Features 
+## Features 
 
 
-- PM IT Solution is one of the most well-known website development companies, consistently provides its clients with cost-effective yet successful mobile app services. We can assist restaurant owners with the design and development of mobile applications that will help them expand their companies more quickly and achieve the best potential online outcomes.
+- We can assist restaurant owners with the design and development of web applications that will help them expand their companies more quickly and achieve the best potential online outcomes.
 
 
 ## Getting Started
@@ -94,6 +94,7 @@ Using [npm](https://www.npmjs.com/) :
 - [ESLint](https://eslint.org): A pluggable JavaScript linter that helps identify and fix common code issues.
 - [Tailwind CSS](https://tailwindcss.com): A utility-first CSS framework for building custom user interfaces.
 - [Shadcn UI](https://ui.shadcn.com/): A collection of re-usable components built using Radix UI and Tailwind CSS.
+- [MongoDB](https://www.mongodb.com/): MongoDB is a source-available, cross-platform, document-oriented database program.
 - [GCP](https://cloud.google.com/?hl=en):  Use your user credentials to sign in to the Google Cloud CLI, and then use the tool to access Google Cloud services.
 
 ## Usage
